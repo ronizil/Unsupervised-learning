@@ -18,7 +18,7 @@ fetal_health_project/
 ├── merge_pdfs.py
 ├── statistics_tests.py
 ├── visualizations.py
-├── figures_pdf/                # All generated figures and merged PDFs
+├── figures_pdf/                
 │   ├── fig1A.pdf to fig1F.pdf
 │   ├── merged_fig1.pdf
 │   ├── Table_1.pdf
